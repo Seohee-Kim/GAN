@@ -1,7 +1,6 @@
 # Oversampling for Imbalanced Data with SMOTE & GAN
-* 센서 데이터를 활용한 공정 이상 예측
-* 불균형 데이터 처리를 위한 오버 샘플링 - SMOTE, GAN  
-* Overview(예정)  
+* 불균형 데이터 처리  
+* 센서 데이터를 활용한 공정 이상 예측 모델링  
 <img> </br></br>
 
 ## Summary  
